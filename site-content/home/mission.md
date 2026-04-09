@@ -26,4 +26,4 @@ Start Building →
 View on GitHub
 
 ## Secondary CTA Href
-https://github.com
+https://github.com/rizom-ai/brains

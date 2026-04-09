@@ -23,7 +23,7 @@ $ brain init mybrain --model rover
 $ cd mybrain && brain start
 
 ## OK Lines
-- ✓ Web server → localhost:3000
-- ✓ MCP server → localhost:3001
-- ✓ A2A endpoint → localhost:3002
-- ✓ CMS dashboard → localhost:3000/admin
+- ✓ Production site + CMS → localhost:8080
+- ✓ Preview site + CMS → localhost:4321
+- ✓ MCP server → localhost:3333/mcp
+- ✓ A2A endpoint → localhost:3334/.well-known/agent-card.json
