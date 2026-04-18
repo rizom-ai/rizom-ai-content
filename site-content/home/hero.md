@@ -5,7 +5,7 @@ sectionId: hero
 # Hero Section
 
 ## Headline
-Build the agent that represents you
+Build the agent that *represents you*
 
 ## Subhead
 Your knowledge becomes an AI agent. Your agent joins a network. The network finds the right expert for every problem — matched by what people actually know.
