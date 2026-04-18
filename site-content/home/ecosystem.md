@@ -35,10 +35,10 @@ The vision
 Essays, principles, and community. Why we believe the future of knowledge work is distributed, owned, and play.
 
 #### Link Label
-Read the manifesto →
+Coming soon
 
 #### Link Href
-https://rizom.foundation
+
 
 ### Card 3
 
@@ -52,7 +52,7 @@ The network
 Distributed consultancy powered by brains. Specialized expertise that mobilizes in hours, not months. Teams that assemble themselves.
 
 #### Link Label
-Work with us →
+Coming soon
 
 #### Link Href
-https://rizom.work
+
