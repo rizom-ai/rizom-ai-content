@@ -1,9 +1,10 @@
 ---
-title: My Organization
-description: Our shared knowledge hub
+title: Rizom AI
+description: Build the agent that represents you.
+copyright: © 2026 · Apache-2.0
 themeMode: dark
 cta:
-  heading: Join our community
-  buttonText: Get Involved
-  buttonLink: https://example.com/join
+  heading: Build your brain
+  buttonText: Get Started
+  buttonLink: '#quickstart'
 ---
