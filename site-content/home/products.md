@@ -11,9 +11,6 @@ sectionId: products
 #### Variant
 rover
 
-#### Canvas Id
-roverCanvas
-
 #### Label
 Rover
 
@@ -42,9 +39,6 @@ Rover is where it starts. Capture what you know — notes, links, ideas — and 
 #### Variant
 relay
 
-#### Canvas Id
-relayCanvas
-
 #### Label
 Relay
 
@@ -71,9 +65,6 @@ When your brain joins a team, Relay connects them. It maps who knows what, track
 
 #### Variant
 ranger
-
-#### Canvas Id
-rangerCanvas
 
 #### Label
 Ranger
