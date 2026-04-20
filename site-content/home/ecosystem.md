@@ -4,6 +4,12 @@ sectionId: ecosystem
 ---
 # Ecosystem Section
 
+## Eyebrow
+The Ecosystem
+
+## Headline
+One ecosystem. The platform, the vision, the network.
+
 ## Cards
 
 ### Card 1
@@ -38,7 +44,6 @@ Essays, principles, and community. Why we believe the future of knowledge work i
 Coming soon
 
 #### Link Href
-
 
 ### Card 3
 
