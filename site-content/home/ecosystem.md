@@ -8,7 +8,7 @@ sectionId: ecosystem
 The Ecosystem
 
 ## Headline
-One ecosystem. The platform, the vision, the network.
+One ecosystem. The platform, the vision, *the network*.
 
 ## Cards
 

@@ -8,7 +8,7 @@ sectionId: ownership
 Your Data, Your Rules
 
 ## Headline
-Everything is a plain text file you can read with any editor
+Everything is a plain text file you can read with *any editor*
 
 ## Features
 
