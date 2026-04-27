@@ -9,7 +9,7 @@ A short, memorable description of what this product does
 
 ## Promise
 
-What your users get out of it — the value in one sentence
+What your users get out of it, the value in one sentence
 
 ## Role
 

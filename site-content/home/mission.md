@@ -12,7 +12,7 @@ The future of
 *work is play.*
 
 ## Post
-Brains are the foundation. But the vision is bigger — infrastructure for a world where talent flows to opportunity, professionals own what they create, and distributed teams outperform traditional organizations.
+Brains are the foundation. But the vision is bigger: infrastructure for a world where talent flows to opportunity, professionals own what they create, and distributed teams outperform traditional organizations.
 
 ## Primary CTA Label
 Start Building →

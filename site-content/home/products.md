@@ -21,7 +21,7 @@ Early Access
 Your knowledge, your agent, your voice
 
 #### Description
-Rover is where it starts. Capture what you know — notes, links, ideas — and your brain turns it into blog posts, presentations, and social content. In your voice. It's the agent that represents you to the world.
+Rover is where it starts. Capture what you know, notes, links, and ideas, and your brain turns it into blog posts, presentations, and social content. In your voice. It's the agent that represents you to the world.
 
 #### Tagline
 - Ingest
@@ -76,7 +76,7 @@ Coming Soon
 The right expert, found by what they actually know
 
 #### Description
-Ranger reads across every brain in the network. When work comes in, it scores every brain for fit — not by job titles, but by what each brain has been thinking about. It assembles teams from complementary knowledge. The right people, matched by substance.
+Ranger reads across every brain in the network. When work comes in, it scores every brain for fit, not by job titles, but by what each brain has been thinking about. It assembles teams from complementary knowledge. The right people, matched by substance.
 
 #### Tagline
 - Scan

@@ -21,7 +21,7 @@ M
 Markdown, not databases
 
 #### Body
-Every entity — posts, notes, links, decks — lives as a markdown file with frontmatter. Version-controlled with git. Readable without the brain running.
+Every entity, from posts and notes to links and decks, lives as a markdown file with frontmatter. Version-controlled with git. Readable without the brain running.
 
 ### Feature 2
 

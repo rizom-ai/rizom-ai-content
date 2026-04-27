@@ -11,7 +11,7 @@ Quick Start
 Running in under a minute
 
 ## Description
-One package. Three commands. Your brain boots with a website, MCP server, CMS, and chat interface — all in a single process.
+One package. Three commands. Your brain boots with a website, MCP server, CMS, and chat interface, all in a single process.
 
 ## Install Command
 $ bun add -g @rizom/brain

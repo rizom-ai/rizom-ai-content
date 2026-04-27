@@ -2,7 +2,7 @@
 
 This is your organization's home page. Replace this content with your own story, mission, or call to action.
 
-Ranger helps your community capture, organize, and share knowledge together. Everything you see here — from this page to the navigation — is generated from your brain's content.
+Ranger helps your community capture, organize, and share knowledge together. Everything you see here, from this page to the navigation, is generated from your brain's content.
 
 ## Getting Started
 

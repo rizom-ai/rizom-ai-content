@@ -37,4 +37,4 @@ People leave, context disappears, and hard-won expertise gets buried in chat thr
 The right people never find each other
 
 #### Body
-You match collaborators by job titles and résumés, not by what they actually know. The perfect expert for your problem might be one connection away — but you'd never know.
+You match collaborators by job titles and résumés, not by what they actually know. The perfect expert for your problem might be one connection away, but you'd never know.
