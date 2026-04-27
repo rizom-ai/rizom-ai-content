@@ -57,6 +57,7 @@ The network
 Distributed consultancy powered by brains. Specialized expertise that mobilizes in hours, not months. Teams that assemble themselves.
 
 #### Link Label
-Coming soon
+See the network →
 
 #### Link Href
+https://rizom.work
